@@ -1,0 +1,38 @@
+.form-margin{
+		margin-top :200px;
+}
+	
+	
+	.has-error p{
+		color: red;
+		font-size :15px;
+		background: 1px solid red;
+		
+	}
+	.error-msg-input .form-control{
+		border:2px solid red;
+	}
+
+	#male,#female {
+		height:20px;
+		width:20px;
+		margin-left:10px;
+		margin-right:10px;
+		margin-bottom:10px;
+	}
+	#telugu,#english,#hindi {
+		height:20px;
+		width:20px;
+		margin-left:10px;
+		margin-right:10px;
+		margin-top:10px
+		margin-bottom:10px;
+	}
+	#reg{
+	margin-top:-20px;
+	
+	}
+	#box-shadow{
+ 		box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+  }		
+	
